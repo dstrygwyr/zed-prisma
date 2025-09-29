@@ -11,5 +11,5 @@ name = "Prisma Language Server"
 language = "Prisma"
 
 [grammars.prisma]
-repository = "https://github.com/victorhqc/tree-sitter-prisma"
-commit = "beeac50812da9765e29cbb2af1324783033cdca3"
+repository = "https://github.com/dstrygwyr/zed-tree-sitter-prisma"
+commit = "5d362efe9582256a8194086123ef86db6cbdb4c5"
